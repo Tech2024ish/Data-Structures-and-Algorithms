@@ -20,5 +20,4 @@ This repository is designed for:
 
 ---
 
-## 📂 Repository Structure
 
