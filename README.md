@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
-Welcome to **Data Structures and Algorithms**, a repository dedicated to mastering the core foundations of computer science through **hands-on implementations** in **Python** and **Java**.
+Welcome to **Data Structures and Algorithms**, a repository dedicated to mastering the core 
+foundations of computer science through hands-on implementations** in **Python**.
 
 This repository is designed for:
 
