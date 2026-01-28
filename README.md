@@ -1,27 +1,23 @@
 # Data Structures and Algorithms
 
-This repository contains implementations of common **Data Structures** and **Algorithms**
-written in **Python** and **Java**.
+Welcome to **Data Structures and Algorithms**, a repository dedicated to mastering the core foundations of computer science through **hands-on implementations** in **Python** and **Java**.
 
-## 📌 Topics Covered
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Sorting Algorithms
-- Searching Algorithms
+This repository is designed for:
 
-## 🛠 Languages
-- Python
-- Java
+- **Learners**: Gain a deep understanding of data structures and algorithms.
+- **Interview Prep**: Perfect for coding interviews, competitive programming, and technical assessments.
+- **Portfolio**: Showcase your ability to implement complex concepts from scratch.
 
-## 🎯 Goal
-To understand data structures and algorithms deeply by implementing them from scratch.
+---
 
-## 🚀 Progress
-- [x] Singly Linked List
-- [x] Merge Sort (Linked List)
-- [ ] Stack
-- [ ] Queue
-- [ ] Tree Traversals
+## 🚀 Goals
+
+1. Implement all major **data structures** and **algorithms** from scratch.
+2. Understand **time and space complexity** for each implementation.
+3. Provide **clean, reusable, and well-documented code**.
+4. Serve as a **reference and practice repository** for students, developers, and engineers.
+
+---
+
+## 📂 Repository Structure
+
